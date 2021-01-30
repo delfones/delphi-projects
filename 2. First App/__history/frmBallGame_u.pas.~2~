@@ -1,0 +1,38 @@
+unit frmBallGame_u;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Buttons, Vcl.ExtCtrls, Vcl.StdCtrls;
+
+type
+  TForm2 = class(TForm)
+    Label1: TLabel;
+    btnUp: TButton;
+    btnDown: TButton;
+    shpCircle: TShape;
+    BitBtnClose: TBitBtn;
+    procedure btnUpClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm2.btnUpClick(Sender: TObject);
+begin
+
+  shpCircle.Top := 70;
+
+end;
+
+end.
