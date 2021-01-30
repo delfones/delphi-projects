@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.01.30 10:27:52.409,=D:\Projects\[Embarcadero]\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021.01.30 10:35:35.931,D:\Projects\[Embarcadero]\Studio\Projects\3. Multi-Language Form\frmMethods_u.dfm=D:\Projects\[Embarcadero]\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021.01.30 10:35:35.931,D:\Projects\[Embarcadero]\Studio\Projects\3. Multi-Language Form\frmMethods_u.pas=D:\Projects\[Embarcadero]\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021.01.30 10:35:53.461,D:\Projects\[Embarcadero]\Studio\Projects\3. Multi-Language Form\frmMethods_p.dproj=D:\Projects\[Embarcadero]\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
