@@ -6,3 +6,4 @@ This is a simple list of apps that I've coded while studying and training for my
 Resource list:  
 Delphi Programming - Full Beginner Crash Course : https://www.youtube.com/watch?v=BqmJpFbRY2U  
 Object Pascal Handbook by Marco Cantu
+Essential Delphi by Marco Cantu
