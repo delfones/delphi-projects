@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.01.31 10:43:40.231,=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.01.31 11:00:26.914,D:\Projects\[Embarcadero]\Studio\Projects\6. Traffic Light\frmTrafficLight_u.dfm=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.01.31 11:00:26.914,D:\Projects\[Embarcadero]\Studio\Projects\6. Traffic Light\frmTrafficLight_u.pas=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.01.31 11:00:29.677,D:\Projects\[Embarcadero]\Studio\Projects\6. Traffic Light\frmTrafficLight_p.dproj=D:\Projects\[Embarcadero]\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
