@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.02.05 10:13:21.795,=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.02.05 10:28:28.788,D:\Projects\[Embarcadero]\Studio\Projects\Exercise 12. IPO\frmIPO_u.pas=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.02.05 10:28:28.788,D:\Projects\[Embarcadero]\Studio\Projects\Exercise 12. IPO\frmIPO_u.dfm=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.02.05 10:28:32.169,D:\Projects\[Embarcadero]\Studio\Projects\Exercise 12. IPO\frmIPO_p.dproj=D:\Projects\[Embarcadero]\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
