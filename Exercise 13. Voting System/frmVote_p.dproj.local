@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.02.05 10:36:32.656,=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.02.05 10:40:26.630,D:\Projects\[Embarcadero]\Studio\Projects\Exercise 13. Voting System\frmVote_u.dfm=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.02.05 10:40:26.630,D:\Projects\[Embarcadero]\Studio\Projects\Exercise 13. Voting System\frmVote_u.pas=D:\Projects\[Embarcadero]\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.02.05 10:40:29.535,D:\Projects\[Embarcadero]\Studio\Projects\Exercise 13. Voting System\frmVote_p.dproj=D:\Projects\[Embarcadero]\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
